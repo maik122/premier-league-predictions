@@ -48,5 +48,5 @@ Each model was trained and tested on the same dataset for comparison.
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/premier-league-predictor.git
+git clone [https://github.com/your-username/premier-league-predictor.git](https://github.com/maik122/premier-league-predictions.git)
 cd premier-league-predictor
